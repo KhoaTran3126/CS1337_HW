@@ -1,1 +1,1 @@
-
+Contains **string processing operations**. 
